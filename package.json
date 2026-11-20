@@ -1,6 +1,6 @@
 {
   "name": "travel-rescue-public-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "license": "SEE LICENSE IN LICENSE",
   "description": "Travel Rescue — public, fully-mocked browser demo (customer app + operator SPAs). Runs with no backend.",
